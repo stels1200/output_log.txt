@@ -1,0 +1,1545 @@
+Mono path[0] = 'D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e92)
+    Vendor:   
+    VRAM:     7648 MB
+    Driver:   27.20.100.8783
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.088 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 0.506600 ms
+RimWorld 1.1.2654 rev672
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89DDFBF0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89ADE090.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89D96030.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89D48020.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8466C0C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89DA4A50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89DB5660.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89E96C10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89EA0020.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89EEBA70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89FDADD0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89FFA3E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A015010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A01B820.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A01FC30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A022E40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A024850.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A026260.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89D04170.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A035690.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A036EA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A0442C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89AE1CC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A045ED0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A0484E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A0510F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A053300.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A078720.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A07DF30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A14E9B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A1CD1C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A22D530.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A24F940.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A25E750.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A311D70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A314B80.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A368390.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A42AFC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A43F7D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A4445E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A447BF0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A466C00.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A48E830.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A4BFD60.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A4DD3B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A4EEFC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A4FABE0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5B6620.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5BD440.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5C2050.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5D0660.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5D2270.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5D5690.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5DF0B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5E40C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5E5CD0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5E92E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5EA8F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8B9B4AB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8B9B92C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8A5ECF00.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89BC7F50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BA8AD00.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BA96110.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BADE550.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BAE8970.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BAF4BA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BAFA1B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BAFD1C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BB6E530.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C8DD040.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BC38CA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BCED8C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BD9F8E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BDA28F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BDC1D10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BDCEF00.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BE0A440.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8BB50F50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C075EC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF847E52E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF847F9100.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF847FA710.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF84804520.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF84806330.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8480A340.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89AE44E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89AE6D00.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8481CD70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C404580.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF84829190.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C41BFA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C432FC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF848313A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C4A0F40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C4B4550.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C56A170.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C5AA190.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C5AE9A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C5AFBB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C5B2DC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C5E95F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C5F6610.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C6A9A30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C6C2E40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C721E80.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C72BE90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89AE30D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C732EB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C7384C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C739CD0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C80A900.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C8C6330.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8D100080.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8D106290.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8D1F38B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8D1FE0C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8D1FF6D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8D2010E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C8C8F50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8D225500.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8C8CC170.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF89BCCF70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF84540A10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8D7610C0.dll
+[HugsLib] version 8.0.1
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001CF8DF40030.dll
+[HugsLib] early-initializing AllowTool
+Rimatomics 1.7.2088
+DubsMintMenus v1.2.633
+RimThemes NX
+[ATPP] Prison Labor found
+[ATPP] SaveOurShip2 found
+[ATPP] Search and Destroy found
+[ATPP] Power++ found
+XML error: <useIngredientsForColor>false</useIngredientsForColor> doesn't correspond to any field in type RecipeMakerProperties. Context: <recipeMaker><unfinishedThingDef>UnfinishedBelt</unfinishedThingDef><researchPrerequisite>ShieldBelt</researchPrerequisite><workSpeedStat>GeneralLaborSpeed</workSpeedStat><workSkill>Crafting</workSkill><effectWorking>Smith</effectWorking><soundWorking>Recipe_Machining</soundWorking><recipeUsers><li>TableMachining</li></recipeUsers><useIngredientsForColor>false</useIngredientsForColor><skillRequirements><Crafting>6</Crafting></skillRequirements></recipeMaker>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <careIfDamaged>false</careIfDamaged> doesn't correspond to any field in type ApparelProperties. Context: <apparel><careIfWornByCorpse>false</careIfWornByCorpse><careIfDamaged>false</careIfDamaged><wearPerDay>0</wearPerDay><bodyPartGroups><li>Waist</li></bodyPartGroups><layers><li>Belt</li></layers><tags><li>BeltDefense</li></tags></apparel>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named CompProperties_Reloadable from node <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <maxCharges>3</maxCharges> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <ammoDef>Chemfuel</ammoDef> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <ammoCountToRefill>10</ammoCountToRefill> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <baseReloadTicks>60</baseReloadTicks> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <soundReload>Standard_Reload</soundReload> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <hotKey>Misc4</hotKey> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <chargeNoun>smokepop</chargeNoun> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find a type named Verb_Smokepop
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <violent>false</violent> doesn't correspond to any field in type VerbProperties. Context: <li><verbClass>Verb_Smokepop</verbClass><label>pop smoke</label><violent>false</violent><hasStandardCommand>true</hasStandardCommand><targetable>false</targetable><nonInterruptingSelfCast>true</nonInterruptingSelfCast><onlyManualCast>True</onlyManualCast></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <nonInterruptingSelfCast>true</nonInterruptingSelfCast> doesn't correspond to any field in type VerbProperties. Context: <li><verbClass>Verb_Smokepop</verbClass><label>pop smoke</label><violent>false</violent><hasStandardCommand>true</hasStandardCommand><targetable>false</targetable><nonInterruptingSelfCast>true</nonInterruptingSelfCast><onlyManualCast>True</onlyManualCast></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <useIngredientsForColor>false</useIngredientsForColor> doesn't correspond to any field in type RecipeMakerProperties. Context: <recipeMaker><unfinishedThingDef>UnfinishedPack</unfinishedThingDef><researchPrerequisite>SmokepopBelt</researchPrerequisite><recipeUsers><li>TableMachining</li></recipeUsers><useIngredientsForColor>false</useIngredientsForColor><workSpeedStat>GeneralLaborSpeed</workSpeedStat><workSkill>Crafting</workSkill><effectWorking>Smith</effectWorking><soundWorking>Recipe_Smith</soundWorking><skillRequirements><Crafting>3</Crafting></skillRequirements></recipeMaker>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <careIfDamaged>false</careIfDamaged> doesn't correspond to any field in type ApparelProperties. Context: <apparel><careIfWornByCorpse>false</careIfWornByCorpse><careIfDamaged>false</careIfDamaged><wearPerDay>0</wearPerDay><bodyPartGroups><li>Waist</li></bodyPartGroups><layers><li>Belt</li></layers><tags><li>BeltDefensePop</li></tags></apparel>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <arcHeightFactor>0.2</arcHeightFactor> doesn't correspond to any field in type ProjectileProperties. Context: <projectile><speed>60</speed><damageDef>Flame</damageDef><explosionRadius>8</explosionRadius><preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef><preExplosionSpawnChance>0.6</preExplosionSpawnChance><ai_IsIncendiary>true</ai_IsIncendiary><arcHeightFactor>0.2</arcHeightFactor><shadowSize>0.6</shadowSize></projectile>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <shadowSize>0.6</shadowSize> doesn't correspond to any field in type ProjectileProperties. Context: <projectile><speed>60</speed><damageDef>Flame</damageDef><explosionRadius>8</explosionRadius><preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef><preExplosionSpawnChance>0.6</preExplosionSpawnChance><ai_IsIncendiary>true</ai_IsIncendiary><arcHeightFactor>0.2</arcHeightFactor><shadowSize>0.6</shadowSize></projectile>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <useIngredientsForColor>false</useIngredientsForColor> doesn't correspond to any field in type RecipeMakerProperties. Context: <recipeMaker><unfinishedThingDef>UnfinishedBelt</unfinishedThingDef><researchPrerequisite>ShieldBelt</researchPrerequisite><workSpeedStat>GeneralLaborSpeed</workSpeedStat><workSkill>Crafting</workSkill><effectWorking>Smith</effectWorking><soundWorking>Recipe_Machining</soundWorking><recipeUsers><li>TableMachining</li></recipeUsers><useIngredientsForColor>false</useIngredientsForColor><skillRequirements><Crafting>6</Crafting></skillRequirements></recipeMaker>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <careIfDamaged>false</careIfDamaged> doesn't correspond to any field in type ApparelProperties. Context: <apparel><careIfWornByCorpse>false</careIfWornByCorpse><careIfDamaged>false</careIfDamaged><wearPerDay>0</wearPerDay><bodyPartGroups><li>Waist</li></bodyPartGroups><layers><li>Belt</li></layers><tags><li>BeltDefense</li></tags></apparel>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named CompProperties_Reloadable from node <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <maxCharges>3</maxCharges> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <ammoDef>Chemfuel</ammoDef> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <ammoCountToRefill>10</ammoCountToRefill> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <baseReloadTicks>60</baseReloadTicks> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <soundReload>Standard_Reload</soundReload> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <hotKey>Misc4</hotKey> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <chargeNoun>smokepop</chargeNoun> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_Reloadable"><maxCharges>3</maxCharges><ammoDef>Chemfuel</ammoDef><ammoCountToRefill>10</ammoCountToRefill><baseReloadTicks>60</baseReloadTicks><soundReload>Standard_Reload</soundReload><hotKey>Misc4</hotKey><chargeNoun>smokepop</chargeNoun><displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find a type named Verb_Smokepop
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <violent>false</violent> doesn't correspond to any field in type VerbProperties. Context: <li><verbClass>Verb_Smokepop</verbClass><label>pop smoke</label><violent>false</violent><hasStandardCommand>true</hasStandardCommand><targetable>false</targetable><nonInterruptingSelfCast>true</nonInterruptingSelfCast><onlyManualCast>True</onlyManualCast></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <nonInterruptingSelfCast>true</nonInterruptingSelfCast> doesn't correspond to any field in type VerbProperties. Context: <li><verbClass>Verb_Smokepop</verbClass><label>pop smoke</label><violent>false</violent><hasStandardCommand>true</hasStandardCommand><targetable>false</targetable><nonInterruptingSelfCast>true</nonInterruptingSelfCast><onlyManualCast>True</onlyManualCast></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <useIngredientsForColor>false</useIngredientsForColor> doesn't correspond to any field in type RecipeMakerProperties. Context: <recipeMaker><unfinishedThingDef>UnfinishedPack</unfinishedThingDef><researchPrerequisite>SmokepopBelt</researchPrerequisite><recipeUsers><li>TableMachining</li></recipeUsers><useIngredientsForColor>false</useIngredientsForColor><workSpeedStat>GeneralLaborSpeed</workSpeedStat><workSkill>Crafting</workSkill><effectWorking>Smith</effectWorking><soundWorking>Recipe_Smith</soundWorking><skillRequirements><Crafting>3</Crafting></skillRequirements></recipeMaker>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <careIfDamaged>false</careIfDamaged> doesn't correspond to any field in type ApparelProperties. Context: <apparel><careIfWornByCorpse>false</careIfWornByCorpse><careIfDamaged>false</careIfDamaged><wearPerDay>0</wearPerDay><bodyPartGroups><li>Waist</li></bodyPartGroups><layers><li>Belt</li></layers><tags><li>BeltDefensePop</li></tags></apparel>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <arcHeightFactor>0.2</arcHeightFactor> doesn't correspond to any field in type ProjectileProperties. Context: <projectile><speed>60</speed><damageDef>Flame</damageDef><explosionRadius>8</explosionRadius><preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef><preExplosionSpawnChance>0.6</preExplosionSpawnChance><ai_IsIncendiary>true</ai_IsIncendiary><arcHeightFactor>0.2</arcHeightFactor><shadowSize>0.6</shadowSize></projectile>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: <shadowSize>0.6</shadowSize> doesn't correspond to any field in type ProjectileProperties. Context: <projectile><speed>60</speed><damageDef>Flame</damageDef><explosionRadius>8</explosionRadius><preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef><preExplosionSpawnChance>0.6</preExplosionSpawnChance><ai_IsIncendiary>true</ai_IsIncendiary><arcHeightFactor>0.2</arcHeightFactor><shadowSize>0.6</shadowSize></projectile>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to use an uninitialized DefOf of type BodyPartDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type Garam_RaceAddon.RaceAddonThingDef
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No Verse.ThingDef named UnfinishedPack found to give to Verse.RecipeMakerProperties Verse.RecipeMakerProperties
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyRecoveryRate found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyRecoveryRate found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyGain found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyGain found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyRecoveryRate found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyMax found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No Verse.ThingDef named UnfinishedPack found to give to Verse.RecipeMakerProperties Verse.RecipeMakerProperties
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyMax found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyMax found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PsychicEntropyMax found to give to RimWorld.StatModifier (null stat)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_Belt_Scarf
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_OnSkin_Shirt
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_OnSkin_T_Shirt
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_OnSkin_Pajamas
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_OnSkin_Open_Back_Knit
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_Overhead_Winter_Hat
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_Overhead_Summer_Hat
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_Shell_Cardigan
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_Shell_Duster
+[Garam, Advanced Apparel] Removed duplicate AdvancedApparelCompProp from Kurin_Shell_Winter_Padding
+[MadSkills]: changed behavior of Great Memory trait.
+d3d11: failed to create 2D texture id=2665 width=4 height=125 mips=8 dxgifmt=28 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 496)
+
+d3d11: failed to create 2D texture shader resource view id=2665 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 460)
+
+d3d11: failed to create 2D texture id=9423 width=125 height=126 mips=8 dxgifmt=28 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 496)
+
+d3d11: failed to create 2D texture shader resource view id=9423 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 460)
+
+Couldn't find exact match for backstory VeteranSoldier42, or any close match.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Translation data for language Russian / Русский has 534 errors. Generate translation report for more info.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Active Terrain Framework initialized. This mod uses Harmony (all patches are non-destructive): Verse.TerrainGrid.SetTerrain, Verse.TerrainGrid.RemoveTopLayer, Verse.MouseoverReadout.MouseoverReadoutOnGUI
+Medical Tab :: Tag CPSource is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag HVSource is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag EVKidney is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag EVLiver is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag HVPathway is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Rimatomics found SoS2 -- Patching
+[Bubbles v1.6.2] Initialized
+More Vanilla Biomes initialized
+[CMColorCodedMoodBar] CMColorCodedMoodBar initialized
+Damage Indicators initialized.
+Wall Light in SoS2 compatibility mode.
+[RimHUD v1.6.7] Initialized
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SRTSExpanded] Overriding SOS2 Destructive Patches.
+Loaded body addon variants for HAR_Silkiera
+Loading variants for HAR_SK/body_P/Tail/SKTail
+
+Variants found for HAR_SK/body_P/Tail/SKTail: 6
+
+Loading variants for HAR_SK/body_P/Ear/SKEar
+
+Variants found for HAR_SK/body_P/Ear/SKEar: 9
+
+
+Loaded body addon variants for HAR_Idhale
+Loading variants for HAR_IH/body_P/DevilFire_B/DFB
+
+Variants found for HAR_IH/body_P/DevilFire_B/DFB: 6
+
+Loading variants for HAR_IH/body_P/DevilFire_F/DFF
+
+Variants found for HAR_IH/body_P/DevilFire_F/DFF: 6
+
+
+Loaded body addon variants for Rabbie
+Loading variants for Rabbielike/Tails/RBTail
+
+Variants found for Rabbielike/Tails/RBTail: 1
+
+Loading variants for Rabbielike/Ear/RBEarLA
+
+Variants found for Rabbielike/Ear/RBEarLA: 3
+
+Loading variants for Rabbielike/Ear/RBEarLB
+
+Variants found for Rabbielike/Ear/RBEarLB: 3
+
+Loading variants for Rabbielike/Ear/RBEarRA
+
+Variants found for Rabbielike/Ear/RBEarRA: 3
+
+Loading variants for Rabbielike/Ear/RBEarRB
+
+Variants found for Rabbielike/Ear/RBEarRB: 3
+
+
+Loaded body addon variants for HAR_Nearmaere
+Loading variants for HAR_NM/body_P/Wing/NMWing
+
+Variants found for HAR_NM/body_P/Wing/NMWing: 11
+
+Loading variants for HAR_NM/body_P/Horn/NMHorn
+
+Variants found for HAR_NM/body_P/Horn/NMHorn: 11
+
+
+Alien race successfully completed 134 patches with harmony.
+Show Hair Harmony Patches:
+
+  Transpiler:
+
+    PawnRenderer.RenderPawnInternal
+
+  Postfix:
+
+    PawnRenderer.RenderPawnInternal
+
+    Game.InitNewGame
+
+    SavedGameLoader.LoadGameFromSaveFile
+Error in static constructor of Garam_RaceAddon.Garam_RaceAddon: System.TypeInitializationException: The type initializer for 'Garam_RaceAddon.Garam_RaceAddon' threw an exception. ---> HarmonyLib.HarmonyException: Patching exception in method System.Collections.Generic.List`1<Verse.WorkTypeDef> Verse.Pawn::GetDisabledWorkTypes(System.Boolean permanentOnly) ---> System.Exception: Parameter "list" not found in method System.Collections.Generic.List`1<Verse.WorkTypeDef> Verse.Pawn::GetDisabledWorkTypes(System.Boolean permanentOnly)
+  at HarmonyLib.MethodPatcher.EmitCallParameter (System.Reflection.MethodInfo patch, System.Collections.Generic.Dictionary`2[TKey,TValue] variables, System.Boolean allowFirsParamPassthrough) [0x0067c] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.MethodPatcher+<>c__DisplayClass32_0.<AddPostfixes>b__1 (System.Reflection.MethodInfo fix) [0x0001d] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.MethodPatcher.AddPostfixes (System.Collections.Generic.Dictionary`2[TKey,TValue] variables, System.Boolean passthroughPatches) [0x00039] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.MethodPatcher.CreateReplacement (System.Collections.Generic.Dictionary`2[System.Int32,HarmonyLib.CodeInstruction]& finalInstructions) [0x00289] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.PatchFunctions.UpdateWrapper (System.Reflection.MethodBase original, HarmonyLib.PatchInfo patchInfo) [0x00057] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.PatchClassProcessor.ProcessPatchJob (HarmonyLib.PatchJobs`1+Job[T] job) [0x0015d] in <20181e2d55204880a56a9120ef04a53d>:0 
+   --- End of inner exception stack trace ---
+  at HarmonyLib.PatchClassProcessor.ReportException (System.Exception exception, System.Reflection.MethodBase original) [0x0010f] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.PatchClassProcessor.Patch () [0x00082] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.Harmony.<PatchAll>b__10_0 (System.Type type) [0x00007] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.Harmony.PatchAll (System.Reflection.Assembly assembly) [0x00006] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at HarmonyLib.Harmony.PatchAll () [0x0001b] in <20181e2d55204880a56a9120ef04a53d>:0 
+  at Garam_RaceAddon.Garam_RaceAddon..cctor () [0x0000c] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at (wrapper dynamic-method) System.Runtime.CompilerServices.RuntimeHelpers.System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor_Patch1(System.RuntimeTypeHandle)
+  at (wrapper dynamic-method) Verse.StaticConstructorOnStartupUtility.Verse.StaticConstructorOnStartupUtility.CallAll_Patch1()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[PL] Trying to find: Quarry 1.1, Result: False
+Enabled Prison Labor v1.1.11
+Patching
+HelpTab :: Failed to build help for: FateGrandOrder_HATjoan
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder+<>c.<HelpForBuildable>b__32_10 (RimWorld.StatModifier so) [0x00000] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].ToArray () [0x00034] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToArray[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at HelpTab.HelpBuilder.HelpForBuildable (Verse.BuildableDef buildableDef, HelpTab.HelpCategoryDef category) [0x002b7] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.HelpForDef[T] (T def, HelpTab.HelpCategoryDef category) [0x00040] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[T] (System.Collections.Generic.IEnumerable`1[T] defs, HelpTab.HelpCategoryDef category) [0x0005a] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+HelpTab :: Failed to build help for: FateGrandOrder_HAThokusai
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder+<>c.<HelpForBuildable>b__32_10 (RimWorld.StatModifier so) [0x00000] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].ToArray () [0x00034] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToArray[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at HelpTab.HelpBuilder.HelpForBuildable (Verse.BuildableDef buildableDef, HelpTab.HelpCategoryDef category) [0x002b7] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.HelpForDef[T] (T def, HelpTab.HelpCategoryDef category) [0x00040] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[T] (System.Collections.Generic.IEnumerable`1[T] defs, HelpTab.HelpCategoryDef category) [0x0005a] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+HelpTab :: Failed to build help for: FateGrandOrder_HAThokusaiC
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder+<>c.<HelpForBuildable>b__32_10 (RimWorld.StatModifier so) [0x00000] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].ToArray () [0x00034] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToArray[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at HelpTab.HelpBuilder.HelpForBuildable (Verse.BuildableDef buildableDef, HelpTab.HelpCategoryDef category) [0x002b7] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.HelpForDef[T] (T def, HelpTab.HelpCategoryDef category) [0x00040] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[T] (System.Collections.Generic.IEnumerable`1[T] defs, HelpTab.HelpCategoryDef category) [0x0005a] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+HelpTab :: Failed to build help for: FateGrandOrder_Saberarmour
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder+<>c.<HelpForBuildable>b__32_10 (RimWorld.StatModifier so) [0x00000] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].ToArray () [0x00034] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToArray[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at HelpTab.HelpBuilder.HelpForBuildable (Verse.BuildableDef buildableDef, HelpTab.HelpCategoryDef category) [0x002b7] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.HelpForDef[T] (T def, HelpTab.HelpCategoryDef category) [0x00040] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[T] (System.Collections.Generic.IEnumerable`1[T] defs, HelpTab.HelpCategoryDef category) [0x0005a] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+HelpTab :: Failed to build help for: FateGrandOrder_ArthurMantle
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder+<>c.<HelpForBuildable>b__32_10 (RimWorld.StatModifier so) [0x00000] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].ToArray () [0x00034] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToArray[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at HelpTab.HelpBuilder.HelpForBuildable (Verse.BuildableDef buildableDef, HelpTab.HelpCategoryDef category) [0x002b7] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.HelpForDef[T] (T def, HelpTab.HelpCategoryDef category) [0x00040] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[T] (System.Collections.Generic.IEnumerable`1[T] defs, HelpTab.HelpCategoryDef category) [0x0005a] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+HelpTab :: Failed to build help for: FateGrandOrder_KimonoHokusai
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder+<>c.<HelpForBuildable>b__32_10 (RimWorld.StatModifier so) [0x00000] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].ToArray () [0x00034] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToArray[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at HelpTab.HelpBuilder.HelpForBuildable (Verse.BuildableDef buildableDef, HelpTab.HelpCategoryDef category) [0x002b7] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.HelpForDef[T] (T def, HelpTab.HelpCategoryDef category) [0x00040] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[T] (System.Collections.Generic.IEnumerable`1[T] defs, HelpTab.HelpCategoryDef category) [0x0005a] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+HelpTab :: Failed to build help for: FateGrandOrder_JoanNewArmour
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder+<>c.<HelpForBuildable>b__32_10 (RimWorld.StatModifier so) [0x00000] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].ToArray () [0x00034] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToArray[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at HelpTab.HelpBuilder.HelpForBuildable (Verse.BuildableDef buildableDef, HelpTab.HelpCategoryDef category) [0x002b7] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.HelpForDef[T] (T def, HelpTab.HelpCategoryDef category) [0x00040] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[T] (System.Collections.Generic.IEnumerable`1[T] defs, HelpTab.HelpCategoryDef category) [0x0005a] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+HelpTab :: Failed to build help for: FateGrandOrder_JoanNewMantle
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder+<>c.<HelpForBuildable>b__32_10 (RimWorld.StatModifier so) [0x00000] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].ToArray () [0x00034] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToArray[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at HelpTab.HelpBuilder.HelpForBuildable (Verse.BuildableDef buildableDef, HelpTab.HelpCategoryDef category) [0x002b7] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.HelpForDef[T] (T def, HelpTab.HelpCategoryDef category) [0x00040] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[T] (System.Collections.Generic.IEnumerable`1[T] defs, HelpTab.HelpCategoryDef category) [0x0005a] in <2304e6de403747f8ad86b9e3c3b06e52>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib] initializing MoreMechanoids, PeteTimesSix.SimpleSidearms, RunAndGun, ShipInteriorMod2, YayoCombat3, SearchAndDestroy
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.SimpleSidearms+OptionsTab
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+Preset
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+LimitModeSingleSidearm
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.hugsLibSettings.SettingsUIs+WeaponListKind
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.hugsLibSettings.SettingsUIs+WeaponListKind
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+LimitModeAmountOfSidearms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+LimitModeSingleSidearm
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.hugsLibSettings.SettingsUIs+WeaponListKind
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.hugsLibSettings.SettingsUIs+WeaponListKind
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+LimitModeAmountOfSidearms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+LimitModeSingleSidearm
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.hugsLibSettings.SettingsUIs+WeaponListKind
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.hugsLibSettings.SettingsUIs+WeaponListKind
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+LimitModeAmountOfSidearms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+LimitModeAmountOfSidearms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+PrimaryWeaponMode
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+PrimaryWeaponMode
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum SimpleSidearms.Globals+DroppingModeOptionsEnum
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Missing enum setting labels for enum yayoCombat.yayoCombat+en_handProtect
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Vanilla Apparel Expanded(vanillaexpanded.vappe) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Vanilla Apparel Expanded(vanillaexpanded.vappe) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Vanilla Apparel Expanded(vanillaexpanded.vappe) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Vanilla Armour Expanded(vanillaexpanded.varme) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Vanilla Armour Expanded(vanillaexpanded.varme) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Vanilla Armour Expanded(vanillaexpanded.varme) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Vanilla Armour Expanded(vanillaexpanded.varme) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Save Our Ship 2(kentington.saveourship2) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Save Our Ship 2(kentington.saveourship2) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : [FGO]Fate Grand Order - Styles Apparel Pack(ricofox233.fgo.stylesapparelpack) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : [FGO]Fate Grand Order - Styles Apparel Pack(ricofox233.fgo.stylesapparelpack) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : [FGO]Fate Grand Order - Styles Apparel Pack(ricofox233.fgo.stylesapparelpack) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : [FGO]Fate Grand Order - Styles Apparel Pack(ricofox233.fgo.stylesapparelpack) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Ancient Species(haduki.ancientspecies) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Yayo's Combat : Ancient Species(haduki.ancientspecies) is have hand or foot protective items so 'hand and foot protective' option is automatically disabled.
+This is not an error and does not interfere with gameplay.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RimHUD v1.6.7] Integrated with Interaction Bubbles
+[RimThemesError] saveVanillaRsc (UnityEngine.Texture2D)  : Cannot save field CompTransporter.CancelLoadCommandTex : Object reference not set to an instance of an object
+[RimThemesError] saveVanillaRsc (UnityEngine.Color)  : Cannot save field ColoredText.ThreatColor : Specified cast is not valid.
+[ATPP] BlacklistigOtherAR  : Corpse_Human
+[ATPP] BlacklistigOtherAR  : Corpse_HAR_Silkiera
+[ATPP] BlacklistigOtherAR  : Corpse_HAR_Idhale
+[ATPP] BlacklistigOtherAR  : Corpse_Rabbie
+[ATPP] BlacklistigOtherAR  : Corpse_HAR_Nearmaere
+[ATPP] BlacklistigOtherAR  : Corpse_AS_WHE_Race
+[ATPP] PrisonLaborPatching Cannot assign method return type System.Single to __result type System.Boolean for method System.Single PrisonLabor.Core.Needs.Need_Motivation::GetChangePoints()   at HarmonyLib.MethodPatcher.EmitCallParameter (System.Reflection.MethodInfo patch, System.Collections.Generic.Dictionary`2[TKey,TValue] variables, System.Boolean allowFirsParamPassthrough) [0x00416] in <20181e2d55204880a56a9120ef04a53d>:0 
+
+  at HarmonyLib.MethodPatcher+<>c__DisplayClass31_0.<AddPrefixes>b__0 (System.Reflection.MethodInfo fix) [0x00086] in <20181e2d55204880a56a9120ef04a53d>:0 
+
+  at HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <20181e2d55204880a56a9120ef04a53d>:0 
+
+  at HarmonyLib.MethodPatcher.AddPrefixes (System.Collections.Generic.Dictionary`2[TKey,TValue] variables, System.Reflection.Emit.LocalBuilder runOriginalVariable) [0x0001b] in <20181e2d55204880a56a9120ef04a53d>:0 
+
+  at HarmonyLib.MethodPatcher.CreateReplacement (System.Collections.Generic.Dictionary`2[System.Int32,HarmonyLib.CodeInstruction]& finalInstructions) [0x00162] in <20181e2d55204880a56a9120ef04a53d>:0 
+
+  at HarmonyLib.PatchFunctions.UpdateWrapper (System.Reflection.MethodBase original, HarmonyLib.PatchInfo patchInfo) [0x00057] in <20181e2d55204880a56a9120ef04a53d>:0 
+
+  at HarmonyLib.PatchProcessor.Patch () [0x000de] in <20181e2d55204880a56a9120ef04a53d>:0 
+
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x00028] in <20181e2d55204880a56a9120ef04a53d>:0 
+
+  at MOARANDROIDS.GC_ATPP..ctor (Verse.Game game) [0x01618] in <42d6017f4ea5420e8a2794b2f7766af4>:0 
+[ATPP] 12 Care job collected for crafting injection
+[ATPP] 4 MentalBreaks collected
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Иситхинум has null relation with . Returning dummy relation.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wires has hands: 2
+Error while generating pawn. Rethrowing. Exception: System.InvalidCastException: Specified cast is not valid.
+  at VFECore.PawnShieldGenerator.TryGenerateShieldFor (Verse.Pawn pawn) [0x001cc] in <ab700463f88c4aabb420cd9f986eeac9>:0 
+  at VFECore.Patch_PawnGenerator+GenerateGearFor.Postfix (Verse.Pawn pawn) [0x00000] in <ab700463f88c4aabb420cd9f986eeac9>:0 
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateGearFor_Patch4(Verse.Pawn,Verse.PawnGenerationRequest)
+  at Verse.PawnGenerator.TryGenerateNewPawnInternal (Verse.PawnGenerationRequest& request, System.String& error, System.Boolean ignoreScenarioRequirements, System.Boolean ignoreValidator) [0x00640] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at Verse.PawnGenerator.GenerateNewPawnInternal (Verse.PawnGenerationRequest& request) [0x00096] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x00183] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GeneratePawn_Patch4(Verse.PawnGenerationRequest)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error in WorldGenStep: System.InvalidCastException: Specified cast is not valid.
+  at VFECore.PawnShieldGenerator.TryGenerateShieldFor (Verse.Pawn pawn) [0x001cc] in <ab700463f88c4aabb420cd9f986eeac9>:0 
+  at VFECore.Patch_PawnGenerator+GenerateGearFor.Postfix (Verse.Pawn pawn) [0x00000] in <ab700463f88c4aabb420cd9f986eeac9>:0 
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateGearFor_Patch4(Verse.Pawn,Verse.PawnGenerationRequest)
+  at Verse.PawnGenerator.TryGenerateNewPawnInternal (Verse.PawnGenerationRequest& request, System.String& error, System.Boolean ignoreScenarioRequirements, System.Boolean ignoreValidator) [0x00640] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at Verse.PawnGenerator.GenerateNewPawnInternal (Verse.PawnGenerationRequest& request) [0x00096] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x00183] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GeneratePawn_Patch4(Verse.PawnGenerationRequest)
+  at RimWorld.Faction.GenerateNewLeader () [0x0014f] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at (wrapper dynamic-method) RimWorld.FactionGenerator.RimWorld.FactionGenerator.NewGeneratedFaction_Patch1(RimWorld.FactionDef)
+  at FactionControl.FactionGenerator_GenerateFactionsIntoWorld.Prefix () [0x00246] in <0eda5ebf03cf40f3a0469bfd7f3c0195>:0 
+  at (wrapper dynamic-method) RimWorld.FactionGenerator.RimWorld.FactionGenerator.GenerateFactionsIntoWorld_Patch4()
+  at (wrapper dynamic-method) RimWorld.Planet.WorldGenStep_Factions.RimWorld.Planet.WorldGenStep_Factions.GenerateFresh_Patch2(RimWorld.Planet.WorldGenStep_Factions,string)
+  at RimWorld.Planet.WorldGenerator.GenerateWorld (System.Single planetCoverage, System.String seedString, RimWorld.Planet.OverallRainfall overallRainfall, RimWorld.Planet.OverallTemperature overallTemperature, RimWorld.Planet.OverallPopulation population) [0x000ec] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Орум
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Объединение итвасдо
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Энталланбум
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Киллеры силы
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-динозавры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-саламандры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Энталланбум
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Оранжевый блок
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Киллеры силы
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Инваия
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Объединение итвасдо
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Оранжевый блок
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Альянс лебатоурэрон
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+  Retrying.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Оранжевый блок
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-динозавры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-саламандры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Орум
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Объединение итвасдо
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Инваия
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Инваия
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Энталланбум
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-динозавры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-динозавры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-саламандры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-саламандры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-динозавры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Люди-саламандры
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find faction base tile for Оранжевый блок
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find player faction.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Vanilla Expanded - Settings loaded
+Faction Иситхинум has null relation with Kurin_PlayerFaction. Returning dummy relation.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Иситхинум has null relation with Kurin_PlayerFaction. Returning dummy relation.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 255 unused Assets to reduce memory usage. Loaded Objects now: 20069.
+Total: 676.808600 ms (FindLiveObjects: 1.224500 ms CreateObjectMapping: 1.339400 ms MarkObjects: 673.981500 ms  DeleteObjects: 0.262700 ms)
+
+Failed to find any textures at Kurin/Apparel/OnSkin/Casual_Wear/Texture_Male while constructing Multi(initPath=Kurin/Apparel/OnSkin/Casual_Wear/Texture_Male, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPawnList(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+Failed to find any textures at Kurin/Apparel/Underwear/Striped_Underwear/Texture_Male while constructing Multi(initPath=Kurin/Apparel/Underwear/Striped_Underwear/Texture_Male, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Stocking/Pantyhose/Texture_Male while constructing Multi(initPath=Kurin/Apparel/Stocking/Pantyhose/Texture_Male, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Shell/Cardigan/Texture_Male while constructing Multi(initPath=Kurin/Apparel/Shell/Cardigan/Texture_Male, color=RGBA(0.682, 0.859, 0.894, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Belt/Scarf/Texture_Male while constructing Multi(initPath=Kurin/Apparel/Belt/Scarf/Texture_Male, color=RGBA(0.682, 0.859, 0.894, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPawnList(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+Failed to find any textures at Kurin/Apparel/Underwear/Slim_Underwear/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Underwear/Slim_Underwear/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Stocking/Brown_Stockings/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Stocking/Brown_Stockings/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/OnSkin/One_Piece_Dress/Texture_Female while constructing Multi(initPath=Kurin/Apparel/OnSkin/One_Piece_Dress/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Shell/Cardigan/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Shell/Cardigan/Texture_Female, color=RGBA(0.682, 0.859, 0.894, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Belt/Scarf/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Belt/Scarf/Texture_Female, color=RGBA(0.682, 0.859, 0.894, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPawnList(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+Failed to find any textures at Kurin/Apparel/Underwear/Striped_Underwear/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Underwear/Striped_Underwear/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Stocking/Striped_Stockings/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Stocking/Striped_Stockings/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/OnSkin/Casual_Wear/Texture_Female while constructing Multi(initPath=Kurin/Apparel/OnSkin/Casual_Wear/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Shell/Duster/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Shell/Duster/Texture_Female, color=RGBA(0.682, 0.859, 0.894, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPawnList(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+Failed to find any textures at Kurin/Apparel/Underwear/Black_Underwear/Texture_Male while constructing Multi(initPath=Kurin/Apparel/Underwear/Black_Underwear/Texture_Male, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Stocking/Garterbelt_Stockings/Texture_Male while constructing Multi(initPath=Kurin/Apparel/Stocking/Garterbelt_Stockings/Texture_Male, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/OnSkin/Pajamas_A/Texture_Male while constructing Multi(initPath=Kurin/Apparel/OnSkin/Pajamas_A/Texture_Male, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/OnSkin/Pajamas_C/Texture_Male while constructing Multi(initPath=Kurin/Apparel/OnSkin/Pajamas_C/Texture_Male, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/Shell/Winter_Padding/Texture_Male while constructing Multi(initPath=Kurin/Apparel/Shell/Winter_Padding/Texture_Male, color=RGBA(0.682, 0.859, 0.894, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPawnList(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+Failed to find any textures at Kurin/Apparel/Stocking/White_Stockings/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Stocking/White_Stockings/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/OnSkin/Hot_Pants/Texture_Female while constructing Multi(initPath=Kurin/Apparel/OnSkin/Hot_Pants/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPawnList(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPawnList(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+Failed to find any textures at Kurin/Apparel/Underwear/Red_Underwear/Texture_Female while constructing Multi(initPath=Kurin/Apparel/Underwear/Red_Underwear/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to find any textures at Kurin/Apparel/OnSkin/Open_Shoulder_Knit/Texture_Female while constructing Multi(initPath=Kurin/Apparel/OnSkin/Open_Shoulder_Knit/Texture_Female, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPawnList(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPortraitArea(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPortraitArea(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+RimWorld.Page_ConfigureStartingPawns:DrawPortraitArea(Rect)
+RimWorld.Page_ConfigureStartingPawns:RimWorld.Page_ConfigureStartingPawns.DoWindowContents_Patch1(Page_ConfigureStartingPawns, Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Underwear
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Stocking
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Underwear
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Stocking
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Underwear
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Stocking
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Underwear
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Stocking
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Stocking
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Underwear
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Underwear
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Stocking
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Underwear
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Prepare Carefully] Cannot find matching layer for apparel.  Last layer: Kurin_Stocking
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+EdB.PrepareCarefully.CustomPawn:GetPortrait(Vector2)
+EdB.PrepareCarefully.PanelPawnList:DrawPanelContent(State)
+EdB.PrepareCarefully.PanelBase:Draw(State)
+EdB.PrepareCarefully.TabViewPawns:Draw(State, Rect)
+EdB.PrepareCarefully.Page_PrepareCarefully:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+EdB.PrepareCarefully.CustomPawn:GetPortrait(Vector2)
+EdB.PrepareCarefully.PanelPawnList:DrawPanelContent(State)
+EdB.PrepareCarefully.PanelBase:Draw(State)
+EdB.PrepareCarefully.TabViewPawns:Draw(State, Rect)
+EdB.PrepareCarefully.Page_PrepareCarefully:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+EdB.PrepareCarefully.CustomPawn:GetPortrait(Vector2)
+EdB.PrepareCarefully.PanelPawnList:DrawPanelContent(State)
+EdB.PrepareCarefully.PanelBase:Draw(State)
+EdB.PrepareCarefully.TabViewPawns:Draw(State, Rect)
+EdB.PrepareCarefully.Page_PrepareCarefully:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+EdB.PrepareCarefully.CustomPawn:GetPortrait(Vector2)
+EdB.PrepareCarefully.PanelAppearance:DrawPawn(CustomPawn, Rect)
+EdB.PrepareCarefully.PanelAppearance:DrawPanelContent(State)
+EdB.PrepareCarefully.PanelBase:Draw(State)
+EdB.PrepareCarefully.TabViewPawns:Draw(State, Rect)
+EdB.PrepareCarefully.Page_PrepareCarefully:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Garam_RaceAddon.HarmonyPatches_RenderPawnInternal.Prefix (Verse.PawnRenderer __instance, Verse.Pawn ___pawn, RimWorld.PawnWoundDrawer ___woundOverlays, Verse.PawnHeadOverlays ___statusOverlays, UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.Rot4 headFacing, Verse.RotDrawMode bodyDrawType, System.Boolean portrait, System.Boolean headStump, System.Boolean invisible) [0x000e1] in <dfe0eef848c247628f3c3c1ecc9a037c>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch6(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.Rot4,Verse.RotDrawMode,bool,bool,bool)
+  at Verse.PawnRenderer.RenderPortrait () [0x00086] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+  at RimWorld.PortraitRenderer.OnPostRender () [0x0000b] in <0ee2c524c4be441e9b7f8bfcb20aca6f>:0 
+UnityEngine.Camera:Render()
+RimWorld.PortraitRenderer:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:RenderPortrait(Pawn, RenderTexture, Vector3, Single)
+RimWorld.PortraitsCache:Get(Pawn, Vector2, Vector3, Single, Boolean, Boolean)
+EdB.PrepareCarefully.CustomPawn:GetPortrait(Vector2)
+EdB.PrepareCarefully.PanelPawnList:DrawPanelContent(State)
+EdB.PrepareCarefully.PanelBase:Draw(State)
+EdB.PrepareCarefully.TabViewPawns:Draw(State, Rect)
+EdB.PrepareCarefully.Page_PrepareCarefully:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+ 
+(Filename: <dfe0eef848c247628f3c3c1ecc9a037c> Line: 0)
+
+[Prepare Carefully] Loaded equipment database with 60 material(s)
+[Prepare Carefully] Loaded equipment database with 1410 item(s)
